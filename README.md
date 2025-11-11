@@ -2,7 +2,7 @@
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
-  <title>Мої улюблені книги</title>
+
 </head>
 <body>
   <h1>Мої улюблені книги</h1>
